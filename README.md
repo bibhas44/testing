@@ -1,2 +1,2 @@
-# testing
-## this page I'm creating for testing purpose
+# Thi is a testing project.
+## This page I'm creating for testing purpose.
